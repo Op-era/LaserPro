@@ -1,0 +1,30 @@
+{
+  "name": "emojiisle",
+  "version": "0.0.1",
+  "description": "Emoji Isle is a survival/shoot-em-up/sandbox game with PVE and PVP Elements. Hunting, Gathering, Crafting, Building, Raiding, Dungeons and more. Soon to be multiplayer. ",
+  "main": "dist/index.js.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Op-era/Emoji_Isle_CPP.git"
+  },
+  "keywords": [
+    "game",
+    "emoji",
+    "survival",
+    "island",
+    "crafting",
+    "bosses",
+    "sandbox",
+    "base",
+    "building"
+  ],
+  "author": "Shane Foster (Haven Command LLC)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Op-era/Emoji_Isle_CPP/issues"
+  },
+  "homepage": "https://github.com/Op-era/Emoji_Isle_CPP#readme"
+}
